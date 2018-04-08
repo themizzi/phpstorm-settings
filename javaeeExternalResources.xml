@@ -1,0 +1,7 @@
+<application>
+  <component name="ExternalResourceManagerImpl">
+    <resource url="http://schema.org/EmailMessage" location="$USER_HOME$/Library/Caches/PhpStorm2017.3/extResources/4ec91491_EmailMessage.html" />
+    <resource url="http://schema.phpunit.de/4.8/phpunit.xsd" location="$USER_HOME$/Library/Caches/PhpStorm2017.3/extResources/e374a285_phpunit.xsd" />
+    <resource url="https://schema.phpunit.de/6.3/phpunit.xsd" location="$USER_HOME$/Library/Caches/PhpStorm2017.3/extResources/dac22165_phpunit.xsd" />
+  </component>
+</application>
