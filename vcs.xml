@@ -10,11 +10,12 @@
           <option name="url" value="https://github.com/incompass/API2.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="git@github.com:incompass/IdentityApplication" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
-    <option name="cloneParentDir" value="C:\Users\themi\Code" />
-  </component>
-  <component name="Vcs.Log.App.Settings">
-    <option name="MIGRATED" value="true" />
+    <option name="cloneParentDir" value="/Volumes/Mizzi/Casechek" />
   </component>
 </application>
