@@ -1,0 +1,15 @@
+<application>
+  <component name="FileTypeManager" version="17">
+    <extensionMap>
+      <mapping pattern="install" type="Bash" />
+      <mapping ext="nginx" type="Dockerfile" />
+      <mapping pattern=".gitignore_global" type="Git file" />
+      <mapping pattern="ssh-config" type="PLAIN_TEXT" />
+      <mapping pattern=".env.worker" type="PLAIN_TEXT" />
+      <mapping pattern=".env.test.dist" type="PLAIN_TEXT" />
+      <mapping pattern="config" type="PLAIN_TEXT" />
+      <mapping ext="config" type="PLAIN_TEXT" />
+      <mapping ext="mjml" type="XML" />
+    </extensionMap>
+  </component>
+</application>
