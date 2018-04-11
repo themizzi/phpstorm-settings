@@ -3,13 +3,14 @@
     <extensionMap>
       <mapping pattern="install" type="Bash" />
       <mapping ext="nginx" type="Dockerfile" />
-      <mapping pattern=".gitignore_global" type="Git file" />
-      <mapping pattern="ssh-config" type="PLAIN_TEXT" />
-      <mapping pattern=".env.worker" type="PLAIN_TEXT" />
-      <mapping pattern=".env.test.dist" type="PLAIN_TEXT" />
+      <mapping pattern="symfony" type="PHP" />
       <mapping pattern="config" type="PLAIN_TEXT" />
+      <mapping pattern=".env.worker" type="PLAIN_TEXT" />
+      <mapping pattern="ssh-config" type="PLAIN_TEXT" />
+      <mapping pattern=".env.test.dist" type="PLAIN_TEXT" />
       <mapping ext="config" type="PLAIN_TEXT" />
       <mapping ext="mjml" type="XML" />
+      <mapping pattern=".gitignore_global" type="Git file" />
     </extensionMap>
   </component>
 </application>
