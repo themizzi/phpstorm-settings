@@ -3,6 +3,7 @@
     <interpreters>
       <interpreter home="\usr\local\bin\php" id="546d9df2-f99a-41ec-ad12-6ad7c6489906" name="PHP 7.1" debugger_id="php.debugger.XDebug" />
       <interpreter home="C:\tools\php72\php.exe" id="ee60f417-d01e-4311-947d-c37b78dec69e" name="PHP 7.2" debugger_id="php.debugger.XDebug" />
+      <interpreter home="C:\Users\themi\php.bat" id="7b9ce835-de49-4d49-b387-0b5a8ede8a19" name="PHP" debugger_id="php.debugger.XDebug" />
     </interpreters>
   </component>
   <component name="PhpInterpretersPhpInfoCache">
