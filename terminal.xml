@@ -1,5 +1,5 @@
 <application>
   <component name="TerminalOptionsProvider">
-    <option name="myShellPath" value="&quot;c:\cygwin64\bin\sh.exe&quot; -lic &quot;cd ${OLDPWD-.}; bash&quot;" />
+    <option name="myShellPath" value="C:\Windows\System32\cmd.exe" />
   </component>
 </application>
