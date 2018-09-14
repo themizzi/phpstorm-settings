@@ -1,12 +1,19 @@
 <keymap version="1" name="Default copy 1" parent="$default">
+  <action id="Console.TableResult.EditFilterCriteria" />
   <action id="EditorCloneCaretAbove">
     <keyboard-shortcut first-keystroke="shift ctrl alt comma" />
   </action>
   <action id="EditorCloneCaretBelow">
     <keyboard-shortcut first-keystroke="shift ctrl alt period" />
   </action>
+  <action id="FindInPath">
+    <keyboard-shortcut first-keystroke="shift ctrl alt f" />
+  </action>
   <action id="GotoAction">
     <keyboard-shortcut first-keystroke="shift ctrl a" />
     <keyboard-shortcut first-keystroke="shift ctrl alt space" />
+  </action>
+  <action id="ToggleFullScreen">
+    <keyboard-shortcut first-keystroke="shift ctrl f" />
   </action>
 </keymap>
