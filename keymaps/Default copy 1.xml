@@ -11,6 +11,12 @@
     <keyboard-shortcut first-keystroke="shift ctrl a" />
     <keyboard-shortcut first-keystroke="shift ctrl alt space" />
   </action>
+  <action id="NextSplitter">
+    <keyboard-shortcut first-keystroke="shift ctrl alt close_bracket" />
+  </action>
+  <action id="PrevSplitter">
+    <keyboard-shortcut first-keystroke="shift ctrl alt open_bracket" />
+  </action>
   <action id="ToggleFullScreen">
     <keyboard-shortcut first-keystroke="shift alt f" />
   </action>
